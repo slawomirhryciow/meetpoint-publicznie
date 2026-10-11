@@ -38,6 +38,8 @@ To jest pierwsze pytanie, jakie tu padnie, więc odpowiadam od razu:
 
 Przez całe osiem tygodni nie naprawiam nic w locie i nikogo nie popycham do użycia aplikacji. Publiczny licznik kusi, żeby ratować wynik dopingowaniem ekipy — to niszczy pomiar.
 
+**Doprecyzowane 11 października 2026, przed startem licznika:** „nic w locie” znaczy, że w oknie naprawiam wyłącznie awarie — aplikacja się wywraca, dane się nie zapisują albo giną, powiadomienie nie dochodzi. Nie zmieniam niczego, co zmienia sposób używania: układu ekranów, tekstów, kolejności kroków, funkcji. Każda poprawka z okna trafia do tygodniowego wpisu z datą, opisem awarii i liczbą osób, których dotyczyła. Powód i koszt: [`dziennik/2026-10-11.md`](dziennik/2026-10-11.md).
+
 Test idzie na mojej własnej grupie i ma to wbudowaną słabość, którą wolę nazwać teraz niż tłumaczyć później: kumple wybaczą tarcie, którego obca grupa nie wybaczy. Obca grupa to drugie okno, po tym.
 
 ## Zasada zmiany kryteriów
